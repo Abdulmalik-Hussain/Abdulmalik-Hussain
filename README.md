@@ -13,7 +13,7 @@
 
 - 🏢 I'm a software developer .
 - 👨‍💻 As a IT student, I'm constantly learning and exploring new technologies to improve my skills .
-- 💬 Ask me about my experience with JavaScript and ReactJS, or anything related to Front-end development .
+- 💬 Ask me about my experience with JavaScript and ReactJS, or anything related to software development .
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
